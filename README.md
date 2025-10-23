@@ -1,2 +1,1 @@
-# 1st-week-exam
-a python test
+דוד פורסט נגב 313344376
