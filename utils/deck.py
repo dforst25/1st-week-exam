@@ -1,4 +1,5 @@
 from random import randrange
+__all__ = ['create_deck', 'shuffle', 'compare_cards']
 
 # A global dict to get the rank's value and also to check if the rank is valid
 VALUE_OF_RANK = {'2': 2, '3': 3, '4': 4, '5': 5, '6': 6, '7': 7,
