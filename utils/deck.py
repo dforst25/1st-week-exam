@@ -1,7 +1,7 @@
 from random import randrange
 
 # A global dict to get the rank's value and also to check if the rank is valid
-VALUE_OF_RANK = {'1': 1, '2': 2, '3': 3, '4': 4, '5': 5, '6': 6, '7': 7,
+VALUE_OF_RANK = {'2': 2, '3': 3, '4': 4, '5': 5, '6': 6, '7': 7,
                  '8': 8, '9': 9, '10': 10, 'J': 11, 'Q': 12, 'K': 13, 'A': 14}
 
 # A global list of suites to check if some suite is valid
